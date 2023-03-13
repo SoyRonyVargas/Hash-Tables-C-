@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{E4CB5FE3-BEFF-408B-988E-35980A3830AB}|Default" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HashTable/CHashTable.cs">
+    <Files>
+      <File FileName="HashTable/Program.cs" />
+      <File FileName="HashTable/CHashTable.cs" Line="62" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HashTable" expanded="True">
+            <Node name="HashTable" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HashTable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
